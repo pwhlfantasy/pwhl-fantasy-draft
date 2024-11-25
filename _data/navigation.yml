@@ -1,0 +1,9 @@
+main:
+  - title: "Standings"
+    url: /standings/
+  - title: "Players"
+    url: /players/
+  - title: "Our Team"
+    url: /meet-the-team/
+  - title: "Github"
+    url: https://github.com/pwhlfantasy/pwhl-fantasy-draft
